@@ -1,2 +1,2 @@
-##################Link TO THE PROJECT#####################3
+Link to the Project
 https://edonado2.github.io/pokedex-react-js-main
